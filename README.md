@@ -1,1 +1,1 @@
-- Hi! I'm Janyar.
+- Hi! I'm Janyar. I go to ROC Nova College. I follow the course Software Developer.
