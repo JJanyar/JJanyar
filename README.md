@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @JJanyar
-- 👀 I’m interested in Scripting For Games
-- 🌱 I’m currently learning how to script for games like GTA
-- 📫 How to reach me JanyarZakelijk@gmail.com
+- Hi! I'm Janyar.
